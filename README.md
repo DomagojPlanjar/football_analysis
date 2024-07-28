@@ -57,3 +57,13 @@ You can install the required packages using the provided `requirements.txt` file
 
 ```bash
 pip install -r requirements.txt
+
+### Instructions
+
+1. Download the model from the link above if you want to skip training phase.
+2. Place the model file in the models directory.
+3. Place the sample video in input_videos directory
+4. Run main.py
+5. Any additional help can be found as comments in files.
+6. Additional videos to test the project can be found [here](https://www.kaggle.com/datasets/saberghaderi/-dfl-bundesliga-460-mp4-videos-in-30sec-csv/data),
+just download any and place in input_videos directory. Make sure to set reading from stub in main.py to False when trying new videos as instructed.
