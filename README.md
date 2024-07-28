@@ -58,7 +58,7 @@ You can install the required packages using the provided `requirements.txt` file
 ```bash
 pip install -r requirements.txt
 
-### Instructions
+## Instructions
 
 1. Download the model from the link above if you want to skip training phase.
 2. Place the model file in the models directory.
