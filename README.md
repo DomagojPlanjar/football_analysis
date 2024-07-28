@@ -30,13 +30,6 @@ Due to the large size of the trained model, it is not included in the repository
 
 - [Download the trained model](https://github.com/DomagojPlanjar/football_analysis/releases/download/v1.0/best.pt)
 
-### Instructions
-
-1. Download the model from the link above.
-2. Place the model file in the appropriate directory as specified in the usage instructions.
-3. Follow the instructions in the documentation to use the model.
-
-
 ## Sample Video
 
 [Sample Input Video](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view)
